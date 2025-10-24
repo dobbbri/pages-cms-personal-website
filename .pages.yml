@@ -28,4 +28,4 @@ content:
 settings:
   hide: true
   content:
-    merge: false
+    merge: true
