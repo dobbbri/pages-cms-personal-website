@@ -1,6 +1,6 @@
 /** @type {import("prettier").Config} */
 export default {
-  printWidth: 80,
+  printWidth: 100,
   semi: true,
   jsxSingleQuote: true,
   plugins: ["prettier-plugin-astro"],
