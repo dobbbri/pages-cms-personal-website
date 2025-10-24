@@ -26,6 +26,5 @@ content:
     view:
       fields: [title, description, pubDate, heroImage]
 settings:
-  hide: true
   content:
     merge: true
